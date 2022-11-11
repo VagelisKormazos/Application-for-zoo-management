@@ -1,7 +1,7 @@
 # Application-for-zoo-management
 For this project you will need to implement a Java Console Application for zoo management, where animals will essentially be recorded.
 
-For this project you will need to implement a Java Console Application for zoo management, where animals will essentially be recorded. The generated list will be saved when the program is closed (data that has been loaded/modified will not be lost). Saving the data does NOT have to be done in DB, you can use either direct saving to file/files, or the Java Serialization mechanism (again with files).
+The generated list will be saved when the program is closed (data that has been loaded/modified will not be lost). Saving the data does NOT have to be done in DB, you can use either direct saving to file/files, or the Java Serialization mechanism (again with files).
 
 Specifically your application will support the following functions as menu options:
 1. View all available zoo animals
